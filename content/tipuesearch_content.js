@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'USB', 'text': '\xa0\xa0 http://mde.tw/cp2019/content/index.html \n', 'tags': '', 'url': 'USB.html'}]};
