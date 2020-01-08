@@ -69,7 +69,7 @@ Created by 40823248(https://40823248.github.io/cp2019/blog/index.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># 目錄
 
 * 溫度的轉換
 * 溫度的轉換(各組)
@@ -110,7 +110,7 @@ Created by 40823248(https://40823248.github.io/cp2019/blog/index.html)
 						
 </t>
 <t tx="leo.20180902120523.17">## 各國國旗程式
-```
+
 &lt;iframe src="https://dartpad.github.io/embed-html.html?gh_owner=40823248&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/temp2&amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;
     &lt;/script&gt;
 </t>
@@ -308,7 +308,7 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200108212837.1">##
+<t tx="leo.20200108212837.1">## 心得報告
 
 這次W17的任務是要利用Js做出ptt來報告自己的
 ，將自己在這學期學到的東西報告出來，利用程式課的所學，
